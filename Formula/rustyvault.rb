@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class rustyvault < Formula
+class Rustyvault < Formula
   desc "Secure Password Manager in your terminal written in Rust"
   homepage "https://github.com/saranshsaini/RustyVault"
   url "https://github.com/saranshsaini/RustyVault/releases/download/v0.1.0/rustyvault-mac.tar.gz"
